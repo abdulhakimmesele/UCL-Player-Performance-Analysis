@@ -59,4 +59,7 @@ FROM attacking
 GROUP BY position
 ORDER BY total_assists DESC;
 ```
-![All Analysiss Dashboard](UCL.pdf)
+
+# All Query Visualization
+
+![All Analysiss Dashboard](https://github.com/abdulhakimmesele/UCL-Player-Performance-Analysis/commit/faebc3d913182ee7c0f7ec8423fe99a4c69d8ece)
