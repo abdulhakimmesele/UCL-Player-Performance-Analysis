@@ -63,3 +63,17 @@ ORDER BY total_assists DESC;
 # All Query Visualization
 
 ![All Analysiss Dashboard](UCL_page.jpg)
+
+# What I Learned
+
+🧩 Advanced Query Design: Expert in crafting sophisticated SQL queries, seamlessly merging tables, and skillfully using WITH clauses for dynamic temporary table operations.
+📊 Data Summarization Mastery: Proficient in leveraging GROUP BY and wielding aggregate functions like COUNT() and AVG() to extract meaningful insights from data.
+💡 Analytical Problem-Solving: Adept at transforming complex real-world problems into actionable and insightful SQL queries.
+
+# Conclusions
+
+This analysis not only highlights individual and team performances but also provides actionable insights for coaches, analysts, and fans. The data-driven approach allows for better understanding of player dynamics and strategies in competitive football. With further exploration of assists and attacking statistics, the overall analysis can provide a comprehensive picture of success factors in the UCL.
+
+### Final Reflections
+
+This project provided a meaningful opportunity to enhance my SQL skills while diving deep into the world of football analytics. Through this analysis, I gained valuable insights into player performance, scoring patterns, and efficiency metrics that reflect the intricate dynamics of the UEFA Champions League.
